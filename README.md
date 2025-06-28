@@ -1,77 +1,71 @@
-## SAIRAM   github profile 
+# 👋 Hi, I'm Sairam — aka @sairam-s0
 
-**AI/ML Student | Cybersecurity Enthusiast | Building intelligent & secure systems**
+## 🧠 About Me
 
-I work at the intersection of **Artificial Intelligence**, **Cybersecurity**, and **Automation**, solving real-world problems with futuristic design thinking and code-first approach.
+> AI/ML Enthusiast | Cybersecurity Learner | Passionate about solving real-world problems with code, creativity, and a touch of red.
 
-📬 Reach out: [sairam.1242006@gmail.com](mailto:sairam.1242006@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sairam-s-092871294/) • [Credly](https://www.credly.com/users/sairam-s.ef012473)  
+🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning  
+🔭 Exploring Computer Vision, YOLO, and Real-time Automation  
+🛡️ Diving deep into Networking & Cybersecurity (CTFs, Wireshark, Nmap, Burp Suite)  
+💬 Let's connect and collaborate on projects, research, or hackathons  
+📧 Reach me at: [sairam.1242006@gmail.com](mailto:sairam.1242006@gmail.com)
 
 ---
 
-## 🔨 Projects & Creations
+## 🔥 Projects
 
-- **[Helmet Detection (YOLOv8 + OpenCV)](https://github.com/sairam-s0/helmetdection-using-yolo8m-opencv)**  
-  Real-time detection system for helmet violations using YOLOv8 and OpenCV.
+| Project | Description |
+|--------|-------------|
+| [Helmet Detection with YOLOv8 + OpenCV](https://github.com/sairam-s0/helmetdection-using-yolo8m-opencv) | Real-time helmet detection using deep learning & computer vision |
+| [Billing System (Python GUI)](https://github.com/sairam-s0/billing-system) | Python-based GUI application for billing & inventory management |
+| [Ponzi Scheme Detection](https://github.com/Vijay-31-08-2005/ponzi-scheme-detection) | Machine learning tool to detect financial frauds |
 
-- **[Billing System](https://github.com/sairam-s0/billing-system)**  
-  Lightweight Python-based GUI billing system using Tkinter.
+---
 
-- **[Ponzi Scheme Detection](https://github.com/Vijay-31-08-2005/ponzi-scheme-detection)**  
-  Detect fraudulent investment schemes using ML-based classification.
+## 🛠️ Toolbox
+
+**Languages**: Python, Java, C, R  
+**ML/DL**: TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV  
+**Data**: Pandas, NumPy, SQLite, MySQL, Matplotlib, Plotly  
+**Web & Infra**: Django, Kafka, Arduino, Git, Linux  
+**Cyber**: Wireshark, Nmap, Burp Suite  
 
 ---
 
 ## 🏅 Certifications
 
-[![Junior Cybersecurity Analyst – Cisco](https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst-Cisco-blue?logo=cisco&logoColor=white)](https://www.credly.com/badges/bd229915-6b73-44c6-97d9-56bd471724f2/public_url)
-
-🔗 [View more badges on Credly →](https://www.credly.com/users/sairam-s.ef012473)
+🎖️ **Junior Cybersecurity Analyst – CISCO (via Credly)**  
+[🔗 View Badge](https://www.credly.com/badges/bd229915-6b73-44c6-97d9-56bd471724f2/public_url)  
+🔗 More badges on [my Credly profile](https://www.credly.com/users/sairam-s.ef012473)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sairam-s0&theme=tokyonight&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairam-s0&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sairam-s0&theme=dark&hide_border=false" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairam-s0&layout=compact&theme=dark&hide_border=false" width="48%">
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sairam-s0&theme=dark&hide_border=false">
 </p>
 
 ---
 
-## 🧠 Focus Areas
+## 🌐 Links
 
-- 🔍 Computer Vision, YOLO, OpenCV
-- 🛡️ Cybersecurity: Packet Analysis, Network Recon
-- ⚙️ Full-stack: Django, MySQL, REST APIs
-- 📈 ML Ops & Experiment Tracking (MLflow, Scikit-learn, TensorFlow)
-
----
-
-## 🧩 Tools & Tech Stack
-
-`Python` • `OpenCV` • `TensorFlow` • `PyTorch` • `Django` • `MySQL` • `Burp Suite` • `Wireshark` • `Nmap` • `Git` • `Arduino`
+🔗 [Portfolio Website (Cyber-Themed)](https://sairam-s0.github.io)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sairam-s-092871294/)  
+🔗 [Credly](https://www.credly.com/users/sairam-s.ef012473)  
+📧 [Email](mailto:sairam.1242006@gmail.com)
 
 ---
 
-## 🧪 Currently Working On
+## 🎯 2025 Goals
 
-> 🚦 Smart Traffic Monitoring System  
-> 💬 AI Chatbots with custom datasets  
-> 🛰️ Security Recon Tools for automated scanning  
-> 🤖 ROS2 + CV + NLP Agent
-
----
-
-## 🎯 Goals for 2025
-
-- Contribute to open-source AI/Cybersecurity tools  
-- Build a powerful CV + LPR-based automated system  
-- Secure a top ML/Cybersecurity internship opportunity  
-- Launch a research-based project on ML for Public Safety
+- Contribute to Open Source Security Projects  
+- Publish AI + Cybersecurity research  
+- Host a GitHub Action or Package  
+- Build an Intelligent Threat Detection System 🚨
 
 ---
-
-## 🕶️ Want something cooler?
-
-> Check out my Cyber Portfolio Website 🌐: [sairam-s0.github.io](https://sairam-s0.github.io)
