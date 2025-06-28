@@ -1,4 +1,4 @@
-## yo iam Sairam s
+## HI AM SAIRAM aka sairam-s0
 
 **AI/ML Student | Cybersecurity Enthusiast | Building intelligent & secure systems**
 
