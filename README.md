@@ -1,4 +1,4 @@
-## HI AM SAIRAM aka sairam-s0
+## SAIRAM   github profile 
 
 **AI/ML Student | Cybersecurity Enthusiast | Building intelligent & secure systems**
 
