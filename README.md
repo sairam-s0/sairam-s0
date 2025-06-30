@@ -91,7 +91,4 @@ I’m a passionate AI/ML enthusiast currently pursuing my degree in Artificial I
 More badges on [my Credly profile](https://www.credly.com/users/sairam-s.ef012473)
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=sairam-s0&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
