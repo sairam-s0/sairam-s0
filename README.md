@@ -70,6 +70,19 @@ I’m a passionate AI/ML enthusiast currently pursuing my degree in Artificial I
 - 💳 [Billing System](https://github.com/sairam-s0/billing-system)
 - 🕵️‍♂️ [Ponzi Scheme Detection](https://github.com/Vijay-31-08-2005/ponzi-scheme-detection)
 
+
+
+## 🏅 Certifications:
+
+[![Junior Cybersecurity Analyst](https://images.credly.com/size/340x340/images/0e1e4300-d59e-4c6f-8f22-eca48c02b8d3/image.png)](https://www.credly.com/badges/bd229915-6b73-44c6-97d9-56bd471724f2/public_url)  
+**Junior Cybersecurity Analyst – CISCO (via Credly)**  
+More badges on [my Credly profile](https://www.credly.com/users/sairam-s.ef012473)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sairam-s0&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 ---
 
 ## 📈 GitHub Stats:
@@ -83,12 +96,3 @@ I’m a passionate AI/ML enthusiast currently pursuing my degree in Artificial I
 </p>
 
 ---
-
-## 🏅 Certifications:
-
-[![Junior Cybersecurity Analyst](https://images.credly.com/size/340x340/images/0e1e4300-d59e-4c6f-8f22-eca48c02b8d3/image.png)](https://www.credly.com/badges/bd229915-6b73-44c6-97d9-56bd471724f2/public_url)  
-**Junior Cybersecurity Analyst – CISCO (via Credly)**  
-More badges on [my Credly profile](https://www.credly.com/users/sairam-s.ef012473)
-
----
-[![](https://visitcount.itsvg.in/api?id=sairam-s0&icon=0&color=0)](https://visitcount.itsvg.in)
