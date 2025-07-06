@@ -69,6 +69,9 @@ I’m a passionate AI/ML enthusiast currently pursuing my degree in Artificial I
 - 🔍 [Helmet Detection using YOLOv8 + OpenCV](https://github.com/sairam-s0/helmetdection-using-yolo8m-opencv)
 - 💳 [Billing System](https://github.com/sairam-s0/billing-system)
 - 🕵️‍♂️ [Ponzi Scheme Detection](https://github.com/Vijay-31-08-2005/ponzi-scheme-detection)
+- 🌐 [Minimal Portfolio Website](https://sairam-s0.github.io)  
+  <sub><i>Created using just a prompt, a question, and a bit of curiosity. Explore what’s possible when the right tools meet the right intention.</i></sub>
+
 
 
 ---
