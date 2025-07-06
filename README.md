@@ -87,7 +87,6 @@ More badges on [my Credly profile](https://www.credly.com/users/sairam-s.ef01247
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sairam-s0&theme=dark&hide_border=false" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairam-s0&layout=compact&theme=dark&hide_border=false" width="48%">
 </p>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=sairam-s0&theme=dark&hide_border=false">
