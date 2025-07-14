@@ -46,7 +46,7 @@ I’m a passionate AI/ML enthusiast currently pursuing my degree in Artificial I
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/ApacheKafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+
 
 ---
 
