@@ -96,7 +96,7 @@ Here are a few things I’ve worked on to apply what I’m learning:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sairam-s0&theme=dark&hide_border=false" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=sairam-s0&theme=dark&hide_border=false" width="48%"><br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=sairam-s0&theme=dark&hide_border=false">
 </p>
 
