@@ -27,41 +27,60 @@ Here are a few things I’ve worked on to apply what I’m learning:
 
 ---
 
-## 💻 Tech Skills
+## 🧰 Skills & Tools
 
 <details>
-<summary>🧠 AI / ML</summary>
+<summary>🧠 Core Machine Learning</summary>
 
-- Python, NumPy, Pandas, Scikit-learn, Matplotlib, SciPy
-- PyTorch, TensorFlow, Keras
-- YOLOv8, OpenCV, MLflow
+- Languages: **Python**, **R**
+- Libraries: **NumPy**, **Pandas**, **Scikit-learn**, **SciPy**, **Matplotlib**
+- Platforms: **MLflow**, **Google Colab**
 
 </details>
 
 <details>
-<summary>🛠️ Programming / Tools</summary>
+<summary>👁️ Computer Vision</summary>
 
-- Languages: Python, Java, C, R
-- Version Control: Git
-- Tools: Linux, Arduino
-
-</details>
-
-<details>
-<summary>🌐 Web & Database</summary>
-
-- Django, MySQL, MariaDB, SQLite
+- **OpenCV**, **YOLOv8**
+- Used for object detection tasks like helmet, seatbelt, and license plate detection
+- Annotated datasets manually using **LabelImg**
 
 </details>
 
 <details>
-<summary>🔐 Networking & Security</summary>
+<summary>🧱 Deep Learning Frameworks</summary>
 
-- Wireshark, Nmap, Burp Suite
-- Basic system/network auditing and recon
+- **PyTorch**, **TensorFlow**, **Keras**
+- Built and trained CNNs and YOLO-based models on custom datasets
 
 </details>
 
+<details>
+<summary>🌐 Backend / Database</summary>
+
+- Frameworks: **Django**
+- Databases: **MySQL**, **MariaDB**, **SQLite**
+- Used for integrating ML models with simple web backends
+
+</details>
+
+<details>
+<summary>🔐 Cybersecurity / Networking</summary>
+
+- Tools: **Wireshark**, **Nmap**, **Burp Suite**
+- Familiar with basic recon, packet analysis, and network scanning
+- OS: **Linux (Ubuntu, Kali)**
+
+</details>
+
+<details>
+<summary>🛠️ Others</summary>
+
+- Version Control: **Git**
+- Microcontrollers: **Arduino**
+- Visual tools: **Canva** (used for documentation/mockups)
+
+</details>
 ---
 
 ## 🏅 Certification
