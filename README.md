@@ -81,7 +81,8 @@ Here are a few things I’ve worked on to apply what I’m learning:
 - Visual tools: **Canva** (used for documentation/mockups)
 
 </details>
----
+
+
 
 ## 🏅 Certification
 
