@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sairam — @sairam-s0
 
 ## 🧠 About Me
-I'm a student currently learning Artificial Intelligence and Machine Learning, with a strong interest in real-world problem solving using AI — especially in **Computer Vision** and **Automation**. I don’t claim to know everything, but I build, break, and learn along the way.
+I'm a student currently learning Artificial Intelligence and Machine Learning, with a strong interest in real-world problem solving using AI — especially in **Computer Vision** and **Automation**. I build, break, and learn along the way.
 
 - 🎯 Focus: Computer Vision, YOLO models, automation with real-time detection
 - 🔍 Also exploring: Cybersecurity, Networking, Backend systems
