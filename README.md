@@ -3,7 +3,7 @@
 ## 🧠 About Me
 I'm a student currently learning Artificial Intelligence and Machine Learning, with a strong interest in real-world problem solving using AI — especially in **Computer Vision** and **Automation**. I build, break, and learn along the way.
 
-- 🎯 Focus: Computer Vision, YOLO models, automation with real-time detection
+- 🎯 Focus: Computer Vision, YOLO models,ai automation , cyber security 
 - 🔍 Also exploring: Cybersecurity, Networking, Backend systems
 - 🤝 Open to small collaborations, feedback, and practical projects
 - 📬 Reach out: **sairam.1242006@gmail.com**
