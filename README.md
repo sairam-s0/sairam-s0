@@ -163,42 +163,33 @@ CLI-based billing management tool
 <table>
 <tr>
 <td align="center" width="400">
+
 <a href="https://www.credly.com/badges/bd229915-6b73-44c6-97d9-56bd471724f2/public_url">
   <img src="https://images.credly.com/size/340x340/images/0e1e4300-d59e-4c6f-8f22-eca48c02b8d3/image.png" width="200" alt="Junior Cybersecurity Analyst">
 </a>
 
-<h3>🔐 Junior Cybersecurity Analyst</h3>
+<h3>🔐 Junior Cybersecurity Analyst – Cisco</h3>
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 [![View Credential](https://img.shields.io/badge/View_Credential-0077B5?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.credly.com/badges/bd229915-6b73-44c6-97d9-56bd471724f2/public_url)
 
-**Skills Validated:**
-- ✅ Network Security Fundamentals
-- ✅ Threat Detection & Analysis
-- ✅ Security Operations
-- ✅ Incident Response
+**Skills Validated:**  
+- Network Security Fundamentals  
+- Threat Detection & Analysis  
+- Security Operations  
+- Incident Response
 
 </td>
 </tr>
 </table>
 
+<br>
+
 [![View All Certifications](https://img.shields.io/badge/🏅_View_All_Certifications_on_Credly-FF6B00?style=for-the-badge)](https://www.credly.com/users/sairam-s.ef012473)
 
 </div>
----
-### 🔐 Junior Cybersecurity Analyst – Cisco
-[View Credential](https://www.credly.com/badges/bd229915-6b73-44c6-97d9-56bd471724f2/public_url)
 
-**Skills Validated:**  
-- Network Security Fundamentals  
-- Threat Detection & Analysis  
-- Security Operations  
-- Incident Response  
-
-[🏅 Explore All Certifications on Credly](https://www.credly.com/users/sairam-s.ef012473)
-
-</div>
 
 
 ## 📊 GitHub Analytics
