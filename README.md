@@ -237,7 +237,7 @@ CLI-based billing management tool
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-**Thanks for visiting! Feel free to explore my repositories and reach out if you want to collaborate! **
+**Thanks for visiting! Feel free to explore my repositories and reach out if you want to collaborate!**
 
 [![](https://visitcount.itsvg.in/api?id=sairam-s0&icon=2&color=6)](https://visitcount.itsvg.in)
 
