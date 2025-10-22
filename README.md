@@ -165,20 +165,19 @@ CLI-based billing management tool
   <img src="https://images.credly.com/size/340x340/images/0e1e4300-d59e-4c6f-8f22-eca48c02b8d3/image.png" width="150" alt="Junior Cybersecurity Analyst">
 </a>
 
-### 🔐 Junior Cybersecurity Analyst
-**Cisco** | [View Credential](https://www.credly.com/badges/bd229915-6b73-44c6-97d9-56bd471724f2/public_url)
+### 🔐 Junior Cybersecurity Analyst – Cisco
+[View Credential](https://www.credly.com/badges/bd229915-6b73-44c6-97d9-56bd471724f2/public_url)
 
-**Skills Validated:**
-- Network Security Fundamentals
-- Threat Detection & Analysis
-- Security Operations
-- Incident Response
+**Skills Validated:**  
+- Network Security Fundamentals  
+- Threat Detection & Analysis  
+- Security Operations  
+- Incident Response  
 
-[🏅 View All Certifications on Credly](https://www.credly.com/users/sairam-s.ef012473)
+[🏅 Explore All Certifications on Credly](https://www.credly.com/users/sairam-s.ef012473)
 
 </div>
 
----
 
 ## 📊 GitHub Analytics
 
@@ -193,35 +192,7 @@ CLI-based billing management tool
 
 ---
 
-## 🎯 Current Learning Path
 
-```mermaid
-graph LR
-    A[Computer Vision] --> B[Advanced YOLO]
-    A --> C[Image Segmentation]
-    D[Cybersecurity] --> E[Penetration Testing]
-    D --> F[Network Security]
-    G[Backend Dev] --> H[Django REST]
-    G --> I[API Development]
-    
-    style A fill:#6c63ff
-    style D fill:#ff6b6b
-    style G fill:#4ecdc4
-```
-
-### 📚 Currently Learning
-- 🎯 Advanced Computer Vision techniques (Segmentation, Tracking)
-- 🛡️ Ethical Hacking & Penetration Testing methodologies
-- 🔄 ML model deployment with FastAPI and Docker
-- 🌐 RESTful API development with Django
-
-### 🎓 Next Up
-- 📱 Mobile Computer Vision with TensorFlow Lite
-- ☁️ Cloud ML deployment (AWS, GCP)
-- 🤖 Reinforcement Learning basics
-- 🔒 Advanced network security protocols
-
----
 
 ## 📈 Contribution Activity
 
@@ -259,11 +230,11 @@ graph LR
 
 <div align="center">
 
-### 🌟 "Learning never stops, and neither do I" 🌟
+
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-**Thanks for visiting! Feel free to explore my repositories and reach out if you want to collaborate! 🚀**
+**Thanks for visiting! Feel free to explore my repositories and reach out if you want to collaborate! **
 
 [![](https://visitcount.itsvg.in/api?id=sairam-s0&icon=2&color=6)](https://visitcount.itsvg.in)
 
