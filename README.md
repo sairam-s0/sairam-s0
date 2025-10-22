@@ -199,9 +199,7 @@ CLI-based billing management tool
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairam-s0&theme=tokyonight&hide_border=true" height="170" alt="streak">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairam-s0&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="languages">
-</div>
+
 
 ---
 
