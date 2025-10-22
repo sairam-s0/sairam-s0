@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-sairam--s0.github.io-000000?style=for-the-badge&logo=github&logoColor=white)](https://sairam-s0.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-%40sairam--s0-181717?style=for-the-badge&logo=github)](https://github.com/sairam-s0)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sairam-s0&style=for-the-badge&color=blueviolet)
+
 
 </div>
 
