@@ -156,15 +156,37 @@ CLI-based billing management tool
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## 🏆 Certifications
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="400">
 <a href="https://www.credly.com/badges/bd229915-6b73-44c6-97d9-56bd471724f2/public_url">
-  <img src="https://images.credly.com/size/340x340/images/0e1e4300-d59e-4c6f-8f22-eca48c02b8d3/image.png" width="150" alt="Junior Cybersecurity Analyst">
+  <img src="https://images.credly.com/size/340x340/images/0e1e4300-d59e-4c6f-8f22-eca48c02b8d3/image.png" width="200" alt="Junior Cybersecurity Analyst">
 </a>
 
+<h3>🔐 Junior Cybersecurity Analyst</h3>
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+[![View Credential](https://img.shields.io/badge/View_Credential-0077B5?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.credly.com/badges/bd229915-6b73-44c6-97d9-56bd471724f2/public_url)
+
+**Skills Validated:**
+- ✅ Network Security Fundamentals
+- ✅ Threat Detection & Analysis
+- ✅ Security Operations
+- ✅ Incident Response
+
+</td>
+</tr>
+</table>
+
+[![View All Certifications](https://img.shields.io/badge/🏅_View_All_Certifications_on_Credly-FF6B00?style=for-the-badge)](https://www.credly.com/users/sairam-s.ef012473)
+
+</div>
+---
 ### 🔐 Junior Cybersecurity Analyst – Cisco
 [View Credential](https://www.credly.com/badges/bd229915-6b73-44c6-97d9-56bd471724f2/public_url)
 
@@ -202,16 +224,6 @@ CLI-based billing management tool
 
 ---
 
-## 💡 Fun Facts
-
-- 🎮 I debug code while gaming — multitasking pro!
-- 📸 My camera roll is 80% screenshots of code errors
-- ☕ Coffee consumption is directly proportional to lines of code written
-- 🌙 Most productive between 10 PM - 2 AM
-- 🐛 I've spent more time fixing one-line bugs than writing 100-line features
-
----
-
 ## 📬 Let's Connect!
 
 <div align="center">
@@ -222,7 +234,7 @@ CLI-based billing management tool
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
 
 ### 💬 Open to discussions about:
-**Computer Vision** • **AI/ML Projects** • **Cybersecurity** • **Open Source** • **Career Advice**
+**Computer Vision** • **AI/ML Projects** • **Cybersecurity** • **Open Source** 
 
 </div>
 
