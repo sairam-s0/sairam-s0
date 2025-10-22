@@ -25,6 +25,10 @@ Here are a few things I’ve worked on to apply what I’m learning:
 - 🌐 [Minimal Portfolio Website](https://sairam-s0.github.io)  
   → Built just for fun and to test simple deployment — no fancy frontend
 
+- 🖼️ [mdata_alternator](https://github.com/sairam-s0/mdata_alternator)  
+  → Universal metadata editor for images, PDFs, Word, and text files with a GUI. Allows viewing, modifying, and removing metadata safely with automatic backups.
+
+
 ---
 
 ## 🧰 Skills & Tools
