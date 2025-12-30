@@ -56,10 +56,10 @@ me.say_hi()
 ### 💳 LabelOps
 [![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/sairam-s0/LabelOps)
 
-**Active learning–driven data labeling system**
+Active learning–driven data labeling system
 - 🖍️ Human-in-the-loop labeling
 - 📊 Confidence & entropy tracking
-- 🔁 Background shadow model training
+- 🔁 Background shadow training
 - 🚀 Zero-downtime model promotion
 
 **Tech**: Python • PyQt6 • YOLOv8 • Ray • SQLite
@@ -67,50 +67,63 @@ me.say_hi()
 </td>
 <td width="50%">
 
-### 🪖 Helmet Detection System
-[![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/sairam-s0/helmetdection-using-yolo8m-opencv)
+### 🤖 Local AI Automation
+[![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/sairam-s0/local_ai_automation)
 
-Real-time helmet detection using **YOLOv8**
-- 📊 **85% mAP@0.5**
-- 🎥 Live video stream processing
-- 🏷️ Manual annotations
-- 🚦 Road safety automation
+Local AI-powered question solving via OCR
+- 📸 Screenshot-based input capture
+- 🔎 OCR text extraction
+- 🧠 Phi-4 Mini response generation
+- ⚙️ Local-first AI automation
 
-**Tech**: Python • YOLOv8 • OpenCV
+**Tech**: Python • Phi-4 Mini • OCR • Ollama
 
 </td>
 </tr>
 
 <tr>
+<td width="50%">
+
+### 🪖 Helmet Detection System
+[![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/sairam-s0/helmetdection-using-yolo8m-opencv)
+
+Real-time helmet detection using YOLOv8
+- 📊 85% mAP@0.5
+- 🎥 Live video processing
+- 🚦 Road safety automation
+
+**Tech**: Python • YOLOv8 • OpenCV
+
+</td>
 <td width="50%">
 
 ### 📝 Metadata Editor Pro
 [![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/sairam-s0/mdata_alternator)
 
 Universal metadata editor
-- 🖼️ Image & document support
+- 🖼️ Images & documents
 - 🔒 Privacy-focused cleanup
 - 💾 Automatic backups
 
 **Tech**: Python • Tkinter • Pillow • piexif
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🕵️ Ponzi Scheme Detection
 [![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/Vijay-31-08-2005/ponzi-scheme-detection)
 
-ML-based fraud detection
+ML-based financial fraud detection
 - 📈 Transaction analysis
-- 🧮 Statistical anomaly detection
+- 🧮 Anomaly detection
 - 👥 Team project
 
 **Tech**: Python • Scikit-learn • Pandas
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 💳 Billing System
@@ -124,9 +137,9 @@ CLI-based billing tool
 **Tech**: Python • CLI
 
 </td>
-<td width="50%"></td>
 </tr>
 </table>
+
 
 <div align="center">
 
