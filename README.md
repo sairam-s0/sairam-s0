@@ -49,79 +49,82 @@ me.say_hi()
 ---
 
 ## 🚀 Featured Projects
-
 <table>
 <tr>
+<td width="50%">
+
+### 💳 LabelOps
+[![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/sairam-s0/LabelOps)
+
+**Active learning–driven data labeling system**
+- 🖍️ Human-in-the-loop labeling
+- 📊 Confidence & entropy tracking
+- 🔁 Background shadow model training
+- 🚀 Zero-downtime model promotion
+
+**Tech**: Python • PyQt6 • YOLOv8 • Ray • SQLite
+
+</td>
 <td width="50%">
 
 ### 🪖 Helmet Detection System
 [![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/sairam-s0/helmetdection-using-yolo8m-opencv)
 
-Real-time helmet detection using **YOLOv8** and **OpenCV**
-- 📊 **85% mAP@0.5** on custom dataset
+Real-time helmet detection using **YOLOv8**
+- 📊 **85% mAP@0.5**
 - 🎥 Live video stream processing
-- 🏷️ Manually annotated training data
+- 🏷️ Manual annotations
 - 🚦 Road safety automation
 
-**Tech**: Python • YOLOv8 • OpenCV • LabelImg
+**Tech**: Python • YOLOv8 • OpenCV
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 📝 Metadata Editor Pro
 [![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/sairam-s0/mdata_alternator)
 
-Universal metadata editor with modern GUI
-- 🖼️ Images (JPEG, PNG, TIFF, WebP)
-- 📄 Documents (PDF, DOCX, TXT)
-- 🔒 Privacy-focused metadata removal
-- 💾 Automatic backup system
+Universal metadata editor
+- 🖼️ Image & document support
+- 🔒 Privacy-focused cleanup
+- 💾 Automatic backups
 
 **Tech**: Python • Tkinter • Pillow • piexif
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🕵️ Ponzi Scheme Detection
 [![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/Vijay-31-08-2005/ponzi-scheme-detection)
 
-ML-based financial fraud detection system
-- 📈 Transaction pattern analysis
+ML-based fraud detection
+- 📈 Transaction analysis
 - 🧮 Statistical anomaly detection
-- 👥 Collaborative group project
-- 🎯 Real-world problem solving
+- 👥 Team project
 
 **Tech**: Python • Scikit-learn • Pandas
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 💳 Billing System
 [![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/sairam-s0/billing-system)
 
-CLI-based billing management tool
-- 📦 Item inventory management
-- 🧾 Automated invoice generation
-- 💰 Total computation with discounts
-- 🎯 Simple & efficient design
+CLI-based billing tool
+- 📦 Inventory management
+- 🧾 Invoice generation
+- 💰 Discount handling
 
-
+**Tech**: Python • CLI
 
 </td>
-<td width="50%>
-
-### 💳 LabelOps
-[![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/sairam-s0/LabelOps)
-
-LabelOps — Data Labeling with Active Learning
-- 🖍️ Human-in-the-loop labeling workflow
-- 📊 Confidence & entropy tracking
-- 🔁 Shadow model training in background
-- 🚀 Model promotion without downtime
-**Tech**: Python • PyQt6 • YOLOv8 • Ray • SQLite
-</td>
+<td width="50%"></td>
 </tr>
 </table>
 
