@@ -107,7 +107,15 @@ CLI-based billing management tool
 - 💰 Total computation with discounts
 - 🎯 Simple & efficient design
 
-**Tech**: Python • CLI
+### 💳 LabelOps
+[![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/sairam-s0/LabelOps)
+
+LabelOps — Data Labeling with Active Learning
+- 🖍️ Human-in-the-loop labeling workflow
+- 📊 Confidence & entropy tracking
+- 🔁 Shadow model training in background
+- 🚀 Model promotion without downtime
+**Tech**: Python • PyQt6 • YOLOv8 • Ray • SQLite
 
 </td>
 </tr>
