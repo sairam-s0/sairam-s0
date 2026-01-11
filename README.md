@@ -53,8 +53,8 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-### 💳 LabelOps
-[![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/sairam-s0/LabelOps)
+### 💳 ActiveLabelingSystem
+[![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/sairam-s0/ActiveLabelingSystem)
 
 Active learning–driven data labeling system
 - 🖍️ Human-in-the-loop labeling
