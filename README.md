@@ -2,13 +2,11 @@
 
 # 👋 Hi, I'm Sairam
 
-### 🤖 AI/ML Student | 👁️ Computer Vision Enthusiast | 🔐 Security Explorer
+### 🤖 AI/ML Student | ⚙️ Automation Builder | 👁️ Computer Vision | 🔐 Security Explorer
 
 [![Email](https://img.shields.io/badge/Email-sairam.1242006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairam.1242006@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sairam--s0.github.io-000000?style=for-the-badge&logo=github&logoColor=white)](https://sairam-s0.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-%40sairam--s0-181717?style=for-the-badge&logo=github)](https://github.com/sairam-s0)
-
-
 
 </div>
 
@@ -16,39 +14,39 @@
 
 ## 🧠 About Me
 
-I'm a student passionate about **Artificial Intelligence** and **Machine Learning**, with a focus on building practical solutions that matter. I learn by doing — experimenting with models, automating workflows, and solving real-world problems.
+I'm an AI/ML student who likes building systems that automate the repetitive and tedious — whether that's data labeling pipelines, real-time detection, or chaining AI tools together into useful workflows. I learn best by building things and figuring out what breaks.
 
 ```python
 class Sairam:
     def __init__(self):
         self.name = "Sairam"
         self.role = "AI/ML Student"
-        self.interests = ["Computer Vision", "AI Automation", "Cybersecurity"]
-        self.current_focus = "YOLO Models & Real-time Detection"
-        self.learning = ["Advanced CV Techniques", "Network Security", "Backend Systems"]
+        self.interests = ["AI Automation", "Computer Vision", "Cybersecurity"]
+        self.current_focus = "Automation pipelines with n8n + local AI"
+        self.learning = ["Workflow Orchestration", "Advanced CV", "Network Security"]
     
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something cool together 🚀")
+        print("Thanks for stopping by! Let's build something useful together 🚀")
 
 me = Sairam()
 me.say_hi()
 ```
 
-### 🎯 Current Focus
-- 🔍 **Computer Vision**: Building detection systems with YOLOv8
-- 🤖 **AI Automation**: Streamlining workflows with intelligent tools
+### 🎯 What I'm working on
+- ⚙️ **Workflow Automation**: Building local-first pipelines with n8n and self-hosted AI
+- 🔍 **Computer Vision**: Detection and active learning systems with YOLOv8
 - 🛡️ **Cybersecurity**: Exploring network security and ethical hacking
-- 🔗 **Backend Development**: Integrating ML models with Django
+- 🔗 **Backend Integration**: Connecting ML models with real applications
 
 ### 🤝 Open to
-- Collaborating on **Computer Vision** projects
+- Collaborating on **automation or computer vision** projects
 - Contributing to **open-source AI tools**
-- Learning from experienced developers
-- Sharing knowledge with fellow learners
+- Learning from and sharing with other builders
 
 ---
 
 ## 🚀 Featured Projects
+
 <table>
 <tr>
 <td width="50%">
@@ -56,7 +54,8 @@ me.say_hi()
 ### 💳 ActiveLabelingSystem
 [![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/sairam-s0/ActiveLabelingSystem)
 
-Active learning–driven data labeling system
+An active learning pipeline that keeps humans in the loop while training runs in the background — labels, trains, and promotes models without downtime.
+
 - 🖍️ Human-in-the-loop labeling
 - 📊 Confidence & entropy tracking
 - 🔁 Background shadow training
@@ -70,11 +69,12 @@ Active learning–driven data labeling system
 ### 🤖 Local AI Automation
 [![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/sairam-s0/local_ai_automation)
 
-Local AI-powered question solving via OCR
+Captures screenshots, extracts text via OCR, and runs it through a local LLM — no cloud, no API keys.
+
 - 📸 Screenshot-based input capture
 - 🔎 OCR text extraction
 - 🧠 Phi-4 Mini response generation
-- ⚙️ Local-first AI automation
+- ⚙️ Fully local, no external dependencies
 
 **Tech**: Python • Phi-4 Mini • OCR • Ollama
 
@@ -87,10 +87,11 @@ Local AI-powered question solving via OCR
 ### 🪖 Helmet Detection System
 [![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/sairam-s0/helmetdection-using-yolo8m-opencv)
 
-Real-time helmet detection using YOLOv8
+Real-time helmet detection for road safety automation.
+
 - 📊 85% mAP@0.5
 - 🎥 Live video processing
-- 🚦 Road safety automation
+- 🚦 Road safety use case
 
 **Tech**: Python • YOLOv8 • OpenCV
 
@@ -100,7 +101,8 @@ Real-time helmet detection using YOLOv8
 ### 📝 Metadata Editor Pro
 [![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/sairam-s0/mdata_alternator)
 
-Universal metadata editor
+Clean and edit metadata from images and documents — useful for privacy and file management.
+
 - 🖼️ Images & documents
 - 🔒 Privacy-focused cleanup
 - 💾 Automatic backups
@@ -116,7 +118,8 @@ Universal metadata editor
 ### 🕵️ Ponzi Scheme Detection
 [![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/Vijay-31-08-2005/ponzi-scheme-detection)
 
-ML-based financial fraud detection
+ML-based financial fraud detection built as a team project.
+
 - 📈 Transaction analysis
 - 🧮 Anomaly detection
 - 👥 Team project
@@ -129,7 +132,8 @@ ML-based financial fraud detection
 ### 💳 Billing System
 [![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/sairam-s0/billing-system)
 
-CLI-based billing tool
+A straightforward CLI billing tool.
+
 - 📦 Inventory management
 - 🧾 Invoice generation
 - 💰 Discount handling
@@ -139,7 +143,6 @@ CLI-based billing tool
 </td>
 </tr>
 </table>
-
 
 <div align="center">
 
@@ -164,7 +167,11 @@ CLI-based billing tool
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🌐Database
+### ⚙️ Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+### 🌐 Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -182,21 +189,17 @@ CLI-based billing tool
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+
 ## 🏆 Certifications
 
 ### 🔐 Junior Cybersecurity Analyst – Cisco
 [View Credential](https://www.credly.com/badges/bd229915-6b73-44c6-97d9-56bd471724f2/public_url)
 
-**Skills Validated:**
-- Network Security Fundamentals
-- Threat Detection & Analysis
-- Security Operations
-- Incident Response
+**Skills Validated:** Network Security Fundamentals • Threat Detection & Analysis • Security Operations • Incident Response
 
 [🏅 View All Certifications on Credly](https://www.credly.com/users/sairam-s.ef012473)
 
-
-
+---
 
 ## 📊 GitHub Analytics
 
@@ -208,13 +211,7 @@ CLI-based billing tool
 
 </div>
 
-
-
-
-
 ---
-
-
 
 ## 📈 Contribution Activity
 
@@ -229,11 +226,11 @@ CLI-based billing tool
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairam.1242006@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sairam-s-092871294/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sairam-s-092871294/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ram022743)
 
 ### 💬 Open to discussions about:
-**Computer Vision** • **AI/ML Projects** • **Cybersecurity** • **Open Source** 
+**AI Automation** • **Computer Vision** • **Cybersecurity** • **Open Source**
 
 </div>
 
@@ -241,11 +238,9 @@ CLI-based billing tool
 
 <div align="center">
 
-
-
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-**Thanks for visiting! Feel free to explore my repositories and reach out if you want to collaborate!**
+**Thanks for visiting! Feel free to explore my repositories and reach out if you want to collaborate.**
 
 [![](https://visitcount.itsvg.in/api?id=sairam-s0&icon=2&color=6)](https://visitcount.itsvg.in)
 
