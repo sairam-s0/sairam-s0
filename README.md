@@ -1,8 +1,10 @@
 <div align="center">
 
-# SAIRAM S
+# Hey, I'm Sairam 👋
 
 **AI/ML Student · Automation & Computer Vision · Security Enthusiast**
+
+I build things that automate the boring parts and break things until I understand them.
 
 [![Email](https://img.shields.io/badge/Email-sairam.1242006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairam.1242006@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sairam--s0.github.io-000000?style=for-the-badge&logo=github&logoColor=white)](https://sairam-s0.github.io)
