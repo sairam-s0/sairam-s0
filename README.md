@@ -110,7 +110,6 @@ Network security fundamentals, threat detection & analysis, security operations,
 
 <div align="center">
 
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=sairam-s0&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sairam-s0&theme=tokyo-night&hide_border=true&area=true)
