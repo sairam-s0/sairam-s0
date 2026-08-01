@@ -174,3 +174,5 @@ Real-time helmet detection for road safety applications. Achieves ~85% mAP@0.5 w
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
+
+<div align="center"> Donate a claude subscription  </div>
