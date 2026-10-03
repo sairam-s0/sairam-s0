@@ -29,36 +29,50 @@ Currently working on **automation pipelines** (n8n + self-hosted models), **comp
 <tr>
 <td width="50%">
 
+**ZappRagg — Extractive RAG Engine**
+`Python` `ONNX Runtime` `FAISS` `FastAPI` `SQLite`
+
+Low-latency, zero-generative RAG engine using FAISS IVF-SQ8 retrieval, FP16 memory-mapped rescoring, ONNX INT8 inference, and SQuAD2-style extractive QA. Evaluated on the multilingual MSMARCO-XI benchmark with **0.84 Recall@5 cross-lingually** and **3.93ms p95 retrieval latency**.
+
+[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/allanhanan/ZappRagg)
+
+</td>
+<td width="50%">
+
 **ActiveLabelingSystem**
 `Python` `PyQt6` `YOLOv8` `Ray` `SQLite`
 
-Active learning pipeline with human-in-the-loop labeling, confidence/entropy-based sample selection, and background shadow training with zero-downtime model promotion.
+Active learning pipeline with human-in-the-loop labeling, confidence/entropy-based sample selection, background shadow training, dataset versioning, and zero-downtime model promotion.
 
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sairam-s0/ActiveLabelingSystem)
+[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/sairam-s0/ActiveLabelingSystem)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 **Local AI Automation**
 `Python` `Phi-4 Mini` `OCR` `Ollama`
 
-Screenshot capture to OCR extraction to local LLM inference. Fully offline — no cloud dependencies, no API keys, no external calls.
+Screenshot capture to OCR extraction to local LLM inference. Fully offline with no cloud dependencies, API keys, or external calls.
 
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sairam-s0/local_ai_automation)
+[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/sairam-s0/local_ai_automation)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **Personal AI Assistant**
 `FastAPI` `Groq SDK` `SQLite` `Google Calendar API`
 
-Local-first assistant with persistent memory, task management, reminders, tool-calling, and Google Calendar OAuth integration. Full test coverage.
+Local-first assistant with persistent memory, task management, reminders, tool calling, and Google Calendar OAuth integration.
 
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sairam-s0/personal-ai-assistant)
+[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/sairam-s0/personal-ai-assistant)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 **Ponzi Scheme Detection**
@@ -66,19 +80,7 @@ Local-first assistant with persistent memory, task management, reminders, tool-c
 
 ML-based detection system that flags potentially fraudulent financial transaction patterns through transaction-level anomaly analysis.
 
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vijay-31-08-2005/ponzi-scheme-detection)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Metadata Editor Pro**
-`Python` `Tkinter` `Pillow` `piexif`
-
-Utility for viewing and stripping metadata from images and documents. Automatic backups before edits. Built for privacy and file hygiene.
-
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sairam-s0/mdata_alternator)
+[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Vijay-31-08-2005/ponzi-scheme-detection)
 
 </td>
 <td width="50%">
@@ -86,9 +88,9 @@ Utility for viewing and stripping metadata from images and documents. Automatic 
 **Helmet Detection System**
 `Python` `YOLOv8` `OpenCV`
 
-Real-time helmet detection for road safety applications. Achieves ~85% mAP@0.5 with live video inference capability.
+Real-time helmet detection for road-safety applications with live video inference capability and approximately **85% mAP@0.5**.
 
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sairam-s0/helmetdection-using-yolo8m-opencv)
+[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/sairam-s0/helmetdection-using-yolo8m-opencv)
 
 </td>
 </tr>
